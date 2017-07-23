@@ -10,4 +10,5 @@ all_hosts += [
 # Host attributes (needed for WATO)
 host_attributes.update(
 {'172.17.0.10': {},
- '172.17.0.9': {}})
+ '172.17.0.9': {},
+ '172.17.0.4' {}})
